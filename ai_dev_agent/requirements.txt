@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+gitpython
+httpx
+python-dotenv
+psycopg2-binary
